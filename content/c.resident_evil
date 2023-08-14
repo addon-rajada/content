@@ -1,25 +1,37 @@
 
 #id 1576
-#title teste 1968
+#title resident evil 2002
 #type movie
-#server https://uptobox.com/958gwhu80jdp Uptobox
-#server https://fitxdeutschlandgmbh-my.sharepoint.com/personal/filmestres_fitxdeutschlandgmbh_onmicrosoft_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Ffilmestres%5Ffitxdeutschlandgmbh%5Fonmicrosoft%5Fcom%2FDocuments%2FtRILOGIA%20DE%20TERORR%2FTrilogiadeTerror%2E68%2ETVRip%2EMemoriadaTV%2EMenor%2Erar&parent=%2Fpersonal%2Ffilmestres%5Ffitxdeutschlandgmbh%5Fonmicrosoft%5Fcom%2FDocuments%2FtRILOGIA%20DE%20TERORR OneDrive
-#server https://mega.nz/folder/4u0xlLwD#_e-vNCjlDNEmeG1ObjCjDw/file/Y2tQHawb Mega
-
-
-
 
 #id 1577
-#title resident evil 2
+#title resident evil 2 2004
 #type movie
-#server https://uptobox.com/f9q37m4h6s1u Uptobox
-#server https://drive.google.com/file/d/1Im8cVN14PE5WkI9kQ0WsKE7rz1nTezVk/view Google Drive
-#server https://chomikuj.pl/freefilmes/Filmes/2022/12-2022/X.A.Marca.da.Morte.Dublado.1080p.2022.WWW.FREEFILMES.NET,8514252747.mkv(video) Chomikuj
+#server https://ok.ru/video/43407968910 Ok.ru
 
+#id 7737
+#title resident evil 3 2007
+#type movie
+
+#id 35791
+#title resident evil 4 2010
+#type movie
+
+#id 71679
+#title resident evil 5 2012
+#type movie
+
+#id 173897
+#title resident evil 6 2016
+#type movie
+
+
+#id 13648
+#title resident evil degeneracao 2008
+#type movie
+#server https://ok.ru/video/86890449654 Ok.ru
 
 
 #id 460458
 #title resident evil bem vindo a raccoon city 2021
 #type movie
 #server magnet:?xt=urn:btih:D57YM6KP5YKEBRPTK3Q744A4EUIHZPUY&dn=Resident%20Evil%20-%20Bem-Vindo%20a%20Raccoon%20City%202021%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce Torrent
-#server plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D57YM6KP5YKEBRPTK3Q744A4EUIHZPUY&dn=Resident%20Evil%20-%20Bem-Vindo%20a%20Raccoon%20City%202021%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce Torrent P
