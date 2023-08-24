@@ -1,18 +1,13 @@
 
 #include c.resident_evil
 
+#include c.exterminio
+
+#include c.george_romero_zumbis
+
 #id 747
 #title todo mundo quase morto 2004
 #type movie
-
-#id 170
-#title exterminio 2002
-#type movie
-
-#id 1562
-#title exterminio 2 2007
-#type movie
-#server https://ok.ru/video/29803219570 Ok.ru
 
 #id 72190
 #title guerra mundial z 2013
@@ -35,3 +30,8 @@
 #title oasis dos zumbis 1982
 #type movie
 #server https://ok.ru/video/1851686390333 Ok.ru
+
+#id 1070514
+#title 100 coisas para fazer antes de virar zumbi 2023
+#type movie
+

@@ -2,7 +2,7 @@
 #id 11549
 #title vampiros de almas 1956
 #type movie
-#server https://archive.org/download/invasion-of-the-body-snatchers-1956/Invasion%20of%20the%20Body%20Snatchers%20%281956%29.mp4 Internet Archive
+#server https://archive.org/download/invasion-of-the-body-snatchers-1956/Invasion%20of%20the%20Body%20Snatchers%20%281956%29.mp4 Internet Archive (Legendado)
 
 #id 4722
 #title invasores de corpos 1993
@@ -23,4 +23,10 @@
 
 #id 25557
 #title sob o dominio dos aliens 1994
+#type movie
+#server https://ok.ru/video/759069477495 Ok.ru
+#server https://ok.ru/video/32404015682 Ok.ru
+
+#id 528985
+#title assimilate 2019
 #type movie
