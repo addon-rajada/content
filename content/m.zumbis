@@ -1,9 +1,11 @@
 
 #include c.resident_evil
-
 #include c.exterminio
-
 #include c.george_romero_zumbis
+#include c.rec
+#include c.dead_snow
+#include c.invasao_zumbi
+#include c.zumbilandia
 
 #id 747
 #title todo mundo quase morto 2004
@@ -35,3 +37,29 @@
 #title 100 coisas para fazer antes de virar zumbi 2023
 #type movie
 
+#id 415010
+#title famintos 2017
+#type movie
+
+#id 614696
+#title #alive 2020
+#type movie
+
+#id 457955
+#title a noite devorou o mundo 2018
+#type movie
+
+#id 6479
+#title eu sou a lenda 2007
+#type movie
+
+#id 763
+#title fome animal 1992
+#type movie
+#server https://ok.ru/video/360035255616 Ok.ru
+
+#id 924
+#title madrugada dos mortos 2004
+#type movie
+#server https://ok.ru/video/33867893433 Ok.ru
+#server https://ok.ru/video/39323306697 Ok.ru
