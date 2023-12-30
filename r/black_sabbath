@@ -3,9 +3,25 @@
 #year 1970
 #img https://upload.wikimedia.org/wikipedia/en/d/da/Black_Sabbath_debut_album.jpg
 
-#item 01 Black Sabbath
+#item 01. Black Sabbath
+#extra 
+#tube 0lVdMbUx1_k
+
+#item 02. The Wizard
+#extra Live at The Angelic Sessions Legendado
+#tube ANDRXIh5gFw
+
+#item 03. Behind the Wall of Sleep
+#extra Live at Paris, 1970 Legendado
+#tube 42uFAOMvNbk
+
+#item 04. N.I.B.
 #extra Legendado
-#tube cqQuitWyjII
+#tube y--23ECYxxE
+
+#item 05. Evil Woman
+#extra Legendado
+#tube KH7ZRdSqvBs
 
 #folder Paranoid
 #year 1970
@@ -19,9 +35,13 @@
 #extra Live at Top of the Pops, 1970 Legendado
 #tube izaukFE-GEU
 
-;#folder Master of Reality
-;#year 1971
-;#img placeholder.png
+#folder Master of Reality
+#year 1971
+#img placeholder.png
+
+#item 01. Sweet Leaf
+#extra Legendado
+#tube XrId0NEuPf0
 
 ;#folder Vol. 4
 ;#year 1972
